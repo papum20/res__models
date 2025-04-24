@@ -1,5 +1,6 @@
 # heavy files
-scan/scan_exstar_daniele-dugo_filled-holes_adjusted.*
-scan/scan_exstar_daniele-dugo_blender.*
-scan/scan_exstar_daniele-dugo.*
-scan/scan_exstar_daniele_simple.{obj,mtl}
+scan/scan_exstar_daniele_filled-holes_adjusted.*
+scan/scan_exstar_daniele_blender.*
+scan/scan_exstar_daniele.*
+scan/scan_exstar_daniele_simple.mtl
+scan/scan_exstar_daniele_simple.obj
