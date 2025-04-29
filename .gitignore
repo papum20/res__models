@@ -6,7 +6,7 @@
 **/*.obj
 
 ## .blend* (only keep .blend)
-**/*.blend1
+#**/*.blend1
 
 # heavy files
 scan/scan_exstar_daniele_filled-holes_adjusted.*
