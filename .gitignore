@@ -1,0 +1,14 @@
+# files non-essential, or which can be generated
+# (unless exceptions)
+
+## ignore .obj and .mtl, when they can be generated from .blend
+**/*.mtl
+**/*.obj
+
+## .blend* (only keep .blend)
+**/*.blend1
+
+# heavy files
+scan/scan_exstar_daniele_filled-holes_adjusted.*
+scan/scan_exstar_daniele_blender.*
+scan/scan_exstar_daniele.*
