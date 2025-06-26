@@ -9,6 +9,7 @@
 #**/*.blend1
 
 # heavy files
-scan/scan_exstar_daniele_filled-holes_adjusted.*
-scan/scan_exstar_daniele_blender.*
-scan/scan_exstar_daniele.*
+models/scan/scan_exstar_daniele_filled-holes_adjusted.*
+models/scan/scan_exstar_daniele_blender.*
+models/scan/scan_exstar_daniele.*
+models/games/a-car/road_new.blend
