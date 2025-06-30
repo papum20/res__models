@@ -7,9 +7,11 @@
 
 ## .blend* (only keep .blend)
 #**/*.blend1
+models/games/a-car/road_v1.blend1
+models/games/a-car/road_v3.blend1
+models/games/a-car/road_v4.blend1
 
 # heavy files
 models/scan/scan_exstar_daniele_filled-holes_adjusted.*
 models/scan/scan_exstar_daniele_blender.*
 models/scan/scan_exstar_daniele.*
-models/games/a-car/road_new.blend
